@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @httpzmiti
+- 👋 Hi, I’m @Rainiel
 - 👀 I’m interested in sports, 
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on a small project to acquire experience for the future
